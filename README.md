@@ -71,11 +71,6 @@ I enjoy learning new technologies, solving problems, and turning ideas into prac
 
 ---
 
-## 📌 Featured Project
-
-### 🧠 AI Prompt Debugger
-
-An AI-based application that analyzes prompts and provides suggestions to improve their quality and effectiveness.
 
 **Technologies:**
 
